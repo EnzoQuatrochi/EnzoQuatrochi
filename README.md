@@ -1,4 +1,4 @@
-# Olá!, eu sou o Enzo, curso engenharia de software na Puc-Campinas.
+# Olá!, eu sou o Enzo, estudante engenharia de software na Puc-Campinas.
 
 ### Contato
 
@@ -26,5 +26,7 @@
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whit">
 </div><br/> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzoquatrochi)
-
+<div>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnzoQuatrochi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoQuatrochi&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>

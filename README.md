@@ -26,7 +26,9 @@
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whit">
 </div><br/> 
 
-<div>  
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=EnzoQuatrochi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoQuatrochi&layout=compact&langs_count=16&theme=tokyonight"/>
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=EnzoQuatrochi&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoQuatrochi&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
+

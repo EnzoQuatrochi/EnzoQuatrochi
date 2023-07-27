@@ -1,4 +1,4 @@
-# Olá! eu sou o Enzo, estudante engenharia de software na Puc-Campinas.
+# Olá! eu sou o Enzo, estudante de engenharia de software na Puc-Campinas.
 
 ### Contato
 

@@ -23,7 +23,7 @@
 ### Tecnologias em estudo
 
 <div style="display: inline_block">
-  <img align="right" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoQuatrochi&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoQuatrochi&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div style="display: inline_block">  

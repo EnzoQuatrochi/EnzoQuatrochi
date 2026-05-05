@@ -1,13 +1,13 @@
-# Olá! eu sou o Enzo, estudante de engenharia de software na Puc-Campinas.
+# Hi! I'm Enzo, Full-Stack software engineering.
 
-### Contato
+### Contact
 
 <div>
   <a href="mailto:enzo.quatrochi.c@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/enzoquatrochi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-### Tecnologias do dia-a-dia
+### Core technologies
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">

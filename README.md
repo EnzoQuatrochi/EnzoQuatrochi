@@ -22,13 +22,12 @@
 
 </div><br/> 
 
-<div style="display: inline_block">
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoQuatrochi&layout=compact&langs_count=16&theme=dracula"/> 
-  <img  align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=EnzoQuatrochi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<p align="left">
+  <img height="200em" src="https://ghstats.dev/api/card?username=enzoquatrochi&theme=dark"/>
 
-<div>
-  # Enzo
-  ## LeetCode
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/enzoquatrochi?theme=dark&font=Karma)
-</div>
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enzoquatrochi&theme=dracula"/>
+
+  <a href="https://leetcode.com/enzoquatrochi/">
+    <img height="200em" src="https://leetcode-badge-showcase.vercel.app/api?username=enzoquatrochi&theme=dark" />
+  </a>
+</p>

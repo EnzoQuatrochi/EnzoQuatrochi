@@ -23,11 +23,11 @@
 </div><br/> 
 
 <p align="left">
-  <img height="200em" src="https://ghstats.dev/api/card?username=enzoquatrochi&theme=dark"/>
+  <img height="190em" src="https://ghstats.dev/api/card?username=enzoquatrochi&theme=dark"/>
 
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enzoquatrochi&theme=dracula"/>
+  <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enzoquatrochi&theme=dracula"/>
 
   <a href="https://leetcode.com/enzoquatrochi/">
-    <img height="200em" src="https://leetcode-badge-showcase.vercel.app/api?username=enzoquatrochi&theme=dark" />
+    <img height="190em" src="https://leetcode-badge-showcase.vercel.app/api?username=enzoquatrochi&theme=dark" />
   </a>
 </p>

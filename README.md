@@ -1,4 +1,4 @@
-# Hi! I'm Enzo, Full-Stack software engineering.
+# Hi! I'm Enzo, Full-Stack software engineer.
 
 ### Contact
 
